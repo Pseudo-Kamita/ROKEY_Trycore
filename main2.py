@@ -66,4 +66,6 @@ print("\n집값 상승 관련 상위 3개 속성")
 
 for rank, (name, coef) in enumerate(positive_coef[:3], 1):
     print(f"{rank}위: {name} ({coef:.6f})")
+
 print(regression.coef_)
+print("hello")
