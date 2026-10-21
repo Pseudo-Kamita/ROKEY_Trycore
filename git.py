@@ -1,7 +1,0 @@
-print("Hello I'm testing GitHub")
-
-print("I want to know what is happening")
-
-print("ROKEY_STUDY")
-
-print("WE ARE TRYCORE")
